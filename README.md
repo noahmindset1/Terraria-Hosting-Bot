@@ -8,7 +8,6 @@ Features:
 --------------
 
 commands:
-```csv
+
 Command,Description,Parameters
 !host_terraria_server,Starts a Terraria server with the specified server name and port.,server_name: str, port: int (optional)
-```
